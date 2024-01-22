@@ -1,4 +1,4 @@
-const coding = ["js", "ruby", "java", "python", "cpp"]
+// const coding = ["js", "ruby", "java", "python", "cpp"]
 
 // coding.forEach( function (val){
 //     console.log(val);
@@ -6,9 +6,12 @@ const coding = ["js", "ruby", "java", "python", "cpp"]
 
 
 
+
 // coding.forEach( (item) => {
 //     console.log(item);
 // } )
+
+
 
 
 
@@ -19,9 +22,12 @@ const coding = ["js", "ruby", "java", "python", "cpp"]
 
 
 
+
+
 // coding.forEach( (item, index, arr)=> {
 //     console.log(item, index, arr);
 // } )
+
 
 
 
