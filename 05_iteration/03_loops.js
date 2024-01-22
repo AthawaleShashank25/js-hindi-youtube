@@ -3,10 +3,10 @@
 // ["", "", ""]
 // [{}, {}, {}]
 
-const arr = [1, 2, 3, 4, 5]
+const arr = [1, 22, 33, 4, 5]
 
 for (const num of arr) {      // for of loop in array
-    console.log(num);
+    console.log(num);        // this line gives index as output but in for of loop this line gives value as output 
 }
 
 const greetings = "Hello world!"
